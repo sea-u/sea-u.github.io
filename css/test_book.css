@@ -1,0 +1,35 @@
+.img-sl {
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    overflow-y: auto;
+    max-width: 100%;
+  }
+.img-fluid{
+    width: 70%;
+    height: auto;
+    float: left;
+    CURSOR: hand
+}
+.txt{
+    float: right;
+    width: 30%;
+    height: auto;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+.logo{
+    display: block;
+    margin: auto;
+}
+/*
+.site-section{
+    background-image: url('../images/pic/background0.jpg');
+    background-size: cover; 
+    background-attachment: fixed;
+    background-color:rgba(190, 116, 51, 0.2);
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+*/
